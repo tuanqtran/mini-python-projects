@@ -1,1 +1,1 @@
-# python-project
+# Goal of this repo is to get a better understanding of Python and it's concept.
